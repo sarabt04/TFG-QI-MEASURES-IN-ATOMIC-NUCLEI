@@ -1,3 +1,4 @@
+#ADVERTISMENT: this code takes a long time to compile, because the input arguments to the function all_equipartition_entropy are huge
 import numpy as np
 
 #1-DADES INICIALS: MATRIU, ESTATS, DIMENSIÓ VALENCE SPACE-----------------------------------
