@@ -8,4 +8,4 @@ The codes that start with AA have the functions used to compute the quantum info
 
 The codes that start with BB implement these functions to the mentioned nuclei.
 
-The codes that start with CC uses the results found to do comparative plots.
+The codes that start with CC uses the results found to do comparative plots. The obtained plots are shown in the CC files as well.
